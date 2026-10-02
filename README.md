@@ -1,0 +1,40 @@
+# Painel de Administração – S03
+
+Projeto da disciplina **S203 – Arquitetura e Desenho de Software** (Inatel).
+
+A plataforma de cartas Pokémon é dividida em várias aplicações, uma por grupo. Este repositório
+é da aplicação **Painel de Administração**. É um painel **somente leitura** que mostra as
+informações gerais da plataforma: jogadores e suas cartas, trocas em aberto, propostas e
+histórico de trocas finalizadas. Os dados vêm dos serviços dos grupos de **Jogadores**,
+**Cartas** e **Trocas**.
+
+Esta versão cobre o conteúdo **até o Cap. 2** da disciplina:
+
+| Capítulo | Onde aparece |
+|---|---|
+| Cap. 0 – Revisão de Orientação a Objetos | encapsulamento, interfaces e DTO no diagrama de classes |
+| Cap. 1 – Introdução à Arquitetura | requisitos não funcionais, visão global, decisões e trade-offs |
+| Cap. 2 – UML | todos os diagramas e a documentação dos casos de uso |
+
+![Diagrama de componentes](06-arquitetura/diagrama-de-componentes.drawio.svg)
+
+## Organização do repositório
+
+| Pasta | Conteúdo |
+|---|---|
+| [01-requisitos](01-requisitos/README.md) | Enunciado, escopo, requisitos funcionais e não funcionais |
+| [02-casos-de-uso](02-casos-de-uso/README.md) | Diagrama de casos de uso e documentação de cada caso (fluxo de eventos) |
+| [03-diagrama-de-classes](03-diagrama-de-classes/README.md) | Classes de análise «boundary» / «control» / «entity» |
+| [04-diagramas-de-sequencia](04-diagramas-de-sequencia/README.md) | Um diagrama de sequência por caso de uso |
+| [05-diagrama-de-atividades](05-diagrama-de-atividades/README.md) | Fluxo completo do administrador, com raias |
+| [06-arquitetura](06-arquitetura/README.md) | Diagramas de componentes e de implantação e decisões de arquitetura |
+
+## Como editar os diagramas
+
+Todos os diagramas são arquivos **`.drawio.svg`**. O GitHub mostra como imagem, e o draw.io abre
+o mesmo arquivo para editar, porque o diagrama fica embutido no SVG.
+
+- **No navegador:** abra o arquivo em [app.diagrams.net](https://app.diagrams.net) (*Arquivo →
+  Abrir de → Dispositivo* ou *GitHub*). Ao salvar, mantenha a extensão `.drawio.svg`.
+- **No VS Code:** instale a extensão **Draw.io Integration** (`hediet.vscode-drawio`) e abra o
+  arquivo direto.
