@@ -28,13 +28,3 @@ Esta versão cobre o conteúdo **até o Cap. 2** da disciplina:
 | [04-diagramas-de-sequencia](04-diagramas-de-sequencia/README.md) | Um diagrama de sequência por caso de uso |
 | [05-diagrama-de-atividades](05-diagrama-de-atividades/README.md) | Fluxo completo do administrador, com raias |
 | [06-arquitetura](06-arquitetura/README.md) | Diagramas de componentes e de implantação e decisões de arquitetura |
-
-## Como editar os diagramas
-
-Todos os diagramas são arquivos **`.drawio.svg`**. O GitHub mostra como imagem, e o draw.io abre
-o mesmo arquivo para editar, porque o diagrama fica embutido no SVG.
-
-- **No navegador:** abra o arquivo em [app.diagrams.net](https://app.diagrams.net) (*Arquivo →
-  Abrir de → Dispositivo* ou *GitHub*). Ao salvar, mantenha a extensão `.drawio.svg`.
-- **No VS Code:** instale a extensão **Draw.io Integration** (`hediet.vscode-drawio`) e abra o
-  arquivo direto.
