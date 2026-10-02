@@ -1,6 +1,6 @@
 # 06 – Arquitetura
 
-Visão global do sistema (Cap. 1) representada com os diagramas estruturais da UML (Cap. 2).
+Visão global do sistema representada com os diagramas estruturais da UML.
 
 ## Diagrama de componentes
 
@@ -21,7 +21,7 @@ se comunicam.
 
 ![Diagrama de implantação](diagrama-de-implantacao.drawio.svg)
 
-## Decisões e trade-offs (Cap. 1)
+## Decisões e trade-offs
 
 | Decisão | Alternativa considerada | Motivo da escolha |
 |---|---|---|

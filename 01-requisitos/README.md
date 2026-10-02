@@ -32,7 +32,7 @@ próprios. Isso é responsabilidade dos outros grupos.
 | RF06 | Listar as propostas realizadas, com troca, proponente, carta proposta, status e data. | UC06 |
 | RF07 | Listar o histórico de trocas finalizadas, com data, os dois jogadores e as cartas trocadas. | UC07 |
 
-## Requisitos não funcionais (Cap. 1)
+## Requisitos não funcionais
 
 | ID | Categoria | Requisito |
 |---|---|---|

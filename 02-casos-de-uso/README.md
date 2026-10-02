@@ -5,7 +5,7 @@
 **Atores**
 - **Jogador (ADM)**: ator principal. É o jogador com perfil de administrador.
 - **Serviço de Jogadores, Serviço de Cartas e Serviço de Trocas**: atores secundários. São
-  outros sistemas que interagem com o painel a partir da fronteira dele (Cap. 2).
+  outros sistemas que interagem com o painel, a partir da fronteira dele.
 
 **Relacionamentos**
 - **Associação:** liga cada ator aos casos de uso de que participa.

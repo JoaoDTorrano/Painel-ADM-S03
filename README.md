@@ -8,14 +8,6 @@ informações gerais da plataforma: jogadores e suas cartas, trocas em aberto, p
 histórico de trocas finalizadas. Os dados vêm dos serviços dos grupos de **Jogadores**,
 **Cartas** e **Trocas**.
 
-Esta versão cobre o conteúdo **até o Cap. 2** da disciplina:
-
-| Capítulo | Onde aparece |
-|---|---|
-| Cap. 0 – Revisão de Orientação a Objetos | encapsulamento, interfaces e DTO no diagrama de classes |
-| Cap. 1 – Introdução à Arquitetura | requisitos não funcionais, visão global, decisões e trade-offs |
-| Cap. 2 – UML | todos os diagramas e a documentação dos casos de uso |
-
 ![Diagrama de componentes](06-arquitetura/diagrama-de-componentes.drawio.svg)
 
 ## Organização do repositório

@@ -2,8 +2,8 @@
 
 ![Diagrama de atividades](diagrama-de-atividades.drawio.svg)
 
-O diagrama descreve o fluxo de controle do uso do painel, do login até a saída. Elementos do
-Cap. 2 usados:
+O diagrama descreve o fluxo de controle do uso do painel, do login até a saída. Elementos
+usados:
 
 | Elemento | No diagrama |
 |---|---|

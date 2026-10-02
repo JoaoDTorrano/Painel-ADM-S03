@@ -1,6 +1,6 @@
 # 04 – Diagramas de Sequência
 
-Um diagrama por caso de uso, como modelo explicativo do cenário básico (Cap. 2). Elementos usados:
+Um diagrama por caso de uso, como modelo explicativo do cenário básico. Elementos usados:
 
 | Elemento | Como aparece |
 |---|---|
