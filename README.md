@@ -1,9 +1,8 @@
-# Painel de Administração – S03
+# Painel de Administração
 
-Projeto da disciplina **S203 – Arquitetura e Desenho de Software** (Inatel).
+Projeto da disciplina **S03 – Arquitetura e Desenho de Software** (Inatel).
 
-A plataforma de cartas Pokémon é dividida em várias aplicações, uma por grupo. Este repositório
-é da aplicação **Painel de Administração**. É um painel **somente leitura** que mostra as
+Este repositório é da aplicação **Painel de Administração**. É um painel **somente leitura** que mostra as
 informações gerais da plataforma: jogadores e suas cartas, trocas em aberto, propostas e
 histórico de trocas finalizadas. Os dados vêm dos serviços dos grupos de **Jogadores**,
 **Cartas** e **Trocas**.
